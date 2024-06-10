@@ -15,6 +15,6 @@ public class EncountArea : MonoBehaviour
         return enemies[r];
     }
 
-
+    //GitUptest@Œã‚ÅÁ‚·I
 
 }
